@@ -13,6 +13,8 @@ The main goals of this project were to:
 •	Enable data-driven decisions through dynamic dashboards
  
 Dashboard 1: Loan Summary Dashboard
+![image](https://github.com/user-attachments/assets/c43b9167-45ec-4e9a-a384-8032be4be13a)
+
 This dashboard provides a high-level overview of loan-related Key Performance Indicators (KPIs) with comparisons across different time frames such as Month-to-Date (MTD) and Month-over-Month (MoM).
 Key Metrics:
 •	Total Loan Applications (All-Time, MTD, MoM)
@@ -30,6 +32,8 @@ Bad Loan KPIs:
 •	Applications Count, Funded Amount, and Received Amount
  
 Dashboard 2: Loan Overview Dashboard
+![image](https://github.com/user-attachments/assets/9dec4830-2c02-447a-9f60-7226a854b8b2)
+
 This dashboard highlights visual trends and patterns across multiple dimensions of the loan dataset using intuitive charts and maps.
 1. Monthly Trends (Line Chart)
 •	Metrics: Total Applications, Funded Amount, Received Amount
@@ -51,6 +55,8 @@ This dashboard highlights visual trends and patterns across multiple dimensions 
 •	Evaluates how housing conditions impact lending behavior
  
 Dashboard 3: Detailed Loan Dashboard
+![image](https://github.com/user-attachments/assets/ae8a504d-ae20-4de9-a516-cafe0ad5bea0)
+
 The Details Dashboard serves as a comprehensive data reference panel that brings together borrower-level and loan-level insights in one consolidated view.
 Key Features:
 •	Loan Status Grid View
