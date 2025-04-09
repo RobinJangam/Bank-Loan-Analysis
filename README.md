@@ -1,6 +1,10 @@
 # Bank-Loan-Analysis (Tableau Project)
 
 Bank Loan Report – Lending Performance Dashboard
+
+**Live Dashboard:**  
+[View on Tableau Public](https://public.tableau.com/app/profile/robin.jangam/viz/BankLoanAnalysis-RobinJangam/Summary)
+
 Project Overview
 As part of my data analytics journey, I developed an end-to-end Bank Loan Report designed to evaluate and monitor a financial institution’s loan performance. This project leverages key metrics, advanced filtering, and interactive visuals to provide actionable insights into lending activities. Built using tools like Tableau for visualization and SQL/Excel for data preparation, the dashboards aim to support strategic decision-making with a focus on loan quality, borrower trends, and portfolio health.
  
